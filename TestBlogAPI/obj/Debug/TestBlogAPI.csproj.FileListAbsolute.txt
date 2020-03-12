@@ -1,0 +1,9 @@
+c:\users\admin\source\repos\TestBlogAPI\TestBlogAPI\bin\Debug\TestBlogAPI.exe.config
+c:\users\admin\source\repos\TestBlogAPI\TestBlogAPI\bin\Debug\TestBlogAPI.exe
+c:\users\admin\source\repos\TestBlogAPI\TestBlogAPI\bin\Debug\TestBlogAPI.pdb
+c:\users\admin\source\repos\TestBlogAPI\TestBlogAPI\bin\Debug\Newtonsoft.Json.dll
+c:\users\admin\source\repos\TestBlogAPI\TestBlogAPI\bin\Debug\Newtonsoft.Json.xml
+c:\users\admin\source\repos\TestBlogAPI\TestBlogAPI\obj\Debug\TestBlogAPI.csprojResolveAssemblyReference.cache
+c:\users\admin\source\repos\TestBlogAPI\TestBlogAPI\obj\Debug\TestBlogAPI.csproj.CoreCompileInputs.cache
+c:\users\admin\source\repos\TestBlogAPI\TestBlogAPI\obj\Debug\TestBlogAPI.exe
+c:\users\admin\source\repos\TestBlogAPI\TestBlogAPI\obj\Debug\TestBlogAPI.pdb
